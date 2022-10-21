@@ -1,10 +1,7 @@
-# ShareMe Social Media Application
-![ShareMe](https://i.ibb.co/8cLfj3X/image.png)
+# R-PIC Real Picture
 
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+This is a Site which you can download and use high-quality image on your project
 
-Using React, Tailwind & Sanity you'll learn how to build a Full Stack Social Media Application - from start to finish.
+For this project, I have use React - tailwindcss - Sanity
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
